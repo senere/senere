@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ecre
 - 👀 I’m interested in Remote Sensing and Geospatial Analysis
-- 🌱 I’m currently learning Lidar Processing
+- 🌱 I’m currently practicing SAR and Hyperspectral data Processing
 - 📫 You can reach me on Linkedin: ecre-sener
 
 <!---
